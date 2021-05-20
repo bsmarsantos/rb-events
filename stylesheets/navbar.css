@@ -1,0 +1,11 @@
+.navbar {
+    background-color: var(--green-dark);
+}
+
+.navbar-dark .navbar-nav .nav-link.active {
+    font-weight: bold;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}

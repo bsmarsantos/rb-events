@@ -1,0 +1,24 @@
+:root {
+    --green-light: #89A99E;
+    --green-dark: #768987;
+    --red: #D35656;
+    --dark: #0C1716;
+    --light: #F3F3F3;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
+svg {
+    fill: white;
+}

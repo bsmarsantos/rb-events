@@ -1,0 +1,13 @@
+.main {
+    margin: 0 -1rem;
+    background-image: url("../images/bg-main-web.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100rem;
+}
+
+@media (max-width: 576px) {
+    .main {
+        background-image: url("../images/bg-main-app.jpg");
+    }
+}
